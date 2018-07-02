@@ -1,6 +1,8 @@
 Material UI Form Fields
 -----------------------
 
+# DEPRECATED: use [@react-form-fields/material-ui](https://github.com/react-form-fields/material-ui)
+
 See [Demo](https://danieloprado.github.io/material-ui-form-fields)
 
 See [API.md](https://github.com/danieloprado/material-ui-form-fields/blob/master/API.md) for details
